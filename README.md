@@ -1,5 +1,10 @@
 # hello-tailwind
 
+## Deploy app to gh-pages
+```
+npm run deploy
+```
+
 ## Project setup
 ```
 npm install
